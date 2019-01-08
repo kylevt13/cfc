@@ -14,7 +14,7 @@
 
 			"abbreviation": "ALA",
 
-			"prestige": "95",
+			"prestige": "100",
 
 			"state": "Alabama",
 
@@ -26,7 +26,7 @@
 
 			"abbreviation": "GEO",
 
-			"prestige": "90",
+			"prestige": "95",
 
 			"state": "Georgia",
 
@@ -38,7 +38,7 @@
 
 			"abbreviation": "FLA",
 
-			"prestige": "80",
+			"prestige": "90",
 
 			"state": "Florida",
 
@@ -46,15 +46,15 @@
 
 		}, {
 
-			"name": "Tennessee",
+			"name": "Missouri",
 
-			"abbreviation": "TEN",
+			"abbreviation": "MIZZ",
 
-			"prestige": "70",
+			"prestige": "75",
 
-			"state": "Tennessee",
+			"state": "Missouri",
 
-			"rival": "ARK"
+			"rival": "KTY"
 
 		}, {
 
@@ -62,7 +62,7 @@
 
 			"abbreviation": "TAM",
 
-			"prestige": "60",
+			"prestige": "85",
 
 			"state": "Texas",
 
@@ -74,7 +74,7 @@
 
 			"abbreviation": "LSU",
 
-			"prestige": "75",
+			"prestige": "90",
 
 			"state": "Louisiana",
 
@@ -82,15 +82,15 @@
 
 		}, {
 
-			"name": "Arkansas",
+			"name": "Mississippi State",
 
-			"abbreviation": "ARK",
+			"abbreviation": "MST",
 
-			"prestige": "60",
+			"prestige": "80",
 
-			"state": "Arkansas",
+			"state": "Mississippi",
 
-			"rival": "TEN"
+			"rival": "MISS"
 
 		}, {
 
@@ -98,11 +98,11 @@
 
 			"abbreviation": "MISS",
 
-			"prestige": "70",
+			"prestige": "65",
 
 			"state": "Mississippi",
 
-			"rival": "KTY"
+			"rival": "MST"
 
 		}, {
 
@@ -110,11 +110,11 @@
 
 			"abbreviation": "KTY",
 
-			"prestige": "40",
+			"prestige": "85",
 
 			"state": "Kentucky",
 
-			"rival": "MISS"
+			"rival": "MIZZ"
 
 		}, {
 
@@ -122,7 +122,7 @@
 
 			"abbreviation": "AUB",
 
-			"prestige": "85",
+			"prestige": "80",
 
 			"state": "Alabama",
 
@@ -142,7 +142,7 @@
 
 			"abbreviation": "OHI",
 
-			"prestige": "90",
+			"prestige": "95",
 
 			"state": "Ohio",
 
@@ -154,7 +154,7 @@
 
 			"abbreviation": "MIC",
 
-			"prestige": "90",
+			"prestige": "95",
 
 			"state": "Michigan",
 
@@ -166,7 +166,7 @@
 
 			"abbreviation": "MSU",
 
-			"prestige": "80",
+			"prestige": "75",
 
 			"state": "Michigan",
 
@@ -178,7 +178,7 @@
 
 			"abbreviation": "WIS",
 
-			"prestige": "80",
+			"prestige": "75",
 
 			"state": "Wisconsin",
 
@@ -190,7 +190,7 @@
 
 			"abbreviation": "MIN",
 
-			"prestige": "65",
+			"prestige": "70",
 
 			"state": "Minnesota",
 
@@ -202,7 +202,7 @@
 
 			"abbreviation": "PUR",
 
-			"prestige": "65",
+			"prestige": "70",
 
 			"state": "Indiana",
 
@@ -214,11 +214,11 @@
 
 			"abbreviation": "IOWA",
 
-			"prestige": "70",
+			"prestige": "80",
 
 			"state": "Iowa",
 
-			"rival": "NEB"
+			"rival": "NOR"
 
 		}, {
 
@@ -238,7 +238,7 @@
 
 			"abbreviation": "PSU",
 
-			"prestige": "80",
+			"prestige": "90",
 
 			"state": "Pennsylvania",
 
@@ -246,13 +246,13 @@
 
 		}, {
 
-			"name": "Nebraska",
+			"name": "Northwestern",
 
-			"abbreviation": "NEB",
+			"abbreviation": "NOR",
 
-			"prestige": "75",
+			"prestige": "80",
 
-			"state": "Nebraska",
+			"state": "Illinois",
 
 			"rival": "IOWA"
 
@@ -274,7 +274,7 @@
 
 			"state": "Virginia",
 
-			"rival": "FSU"
+			"rival": "VT"
 
 		}, {
 
@@ -282,7 +282,7 @@
 
 			"abbreviation": "BC",
 
-			"prestige": "65",
+			"prestige": "70",
 
 			"state": "Massachusetts",
 
@@ -294,7 +294,7 @@
 
 			"abbreviation": "CLEM",
 
-			"prestige": "95",
+			"prestige": "100",
 
 			"state": "South Carolina",
 
@@ -306,7 +306,7 @@
       
       "abbreviation": "MIAMI",
       
-      "prestige": "85",
+      "prestige": "70",
       
       "state": "Florida",
       
@@ -318,19 +318,19 @@
 
 			"abbreviation": "Duke",
 
-			"prestige": "60",
+			"prestige": "65",
 
 			"state": "North Carolina",
 
-			"rival": "UNC"
+			"rival": "NCST"
 
 		}, {
 
-			"name": "North Carolina",
+			"name": "North Carolina State",
 
-			"abbreviation": "UNC",
+			"abbreviation": "NCST",
 
-			"prestige": "40",
+			"prestige": "80",
 
 			"state": "North Carolina",
 
@@ -338,13 +338,13 @@
 
 		}, {
 
-			"name": "Louisville",
+			"name": "Georgia Tech",
       
-      "abreviation": "LOUIS",
+      "abreviation": "GT",
       
-      "presitge": "80",
+      "presitge": "75",
       
-      "state": "Kentucky",
+      "state": "Georgia",
       
       "rival": "PITT"
       
@@ -354,11 +354,11 @@
 
 			"abbreviation": "PIT",
 
-			"prestige": "60",
+			"prestige": "75",
 
 			"state": "Pennsylvania",
 
-			"rival": "LOUIS"
+			"rival": "PITT"
 
 		}, {
 
@@ -366,7 +366,7 @@
 
 			"abbreviation": "SYRA",
 
-			"prestige": "50",
+			"prestige": "80",
 
 			"state": "New York",
 
@@ -378,7 +378,7 @@
 
 			"abbreviation": "VT",
 
-			"prestige": "75",
+			"prestige": "70",
 
 			"state": "Virginia",
 
@@ -398,7 +398,7 @@
 
 			"abbreviation": "OKL",
 
-			"prestige": "90",
+			"prestige": "95",
 
 			"state": "Oklahoma",
 
@@ -410,7 +410,7 @@
 
 			"abbreviation": "TEX",
 
-			"prestige": "80",
+			"prestige": "90",
 
 			"state": "Texas",
 
@@ -422,7 +422,7 @@
 
 			"abbreviation": "ISU",
 
-			"prestige": "55",
+			"prestige": "80",
 
 			"state": "Iowa",
 
@@ -434,7 +434,7 @@
 
 			"abbreviation": "TCU",
 
-			"prestige": "80",
+			"prestige": "75",
 
 			"state": "Texas",
 
@@ -446,7 +446,7 @@
 
 			"abbreviation": "BAY",
 
-			"prestige": "45",
+			"prestige": "75",
 
 			"state": "Texas",
 
@@ -458,7 +458,7 @@
 
 			"abbreviation": "OKS",
 
-			"prestige": "55",
+			"prestige": "70",
 
 			"state": "Oklahoma",
 
@@ -470,7 +470,7 @@
 
 			"abbreviation": "KSU",
 
-			"prestige": "55",
+			"prestige": "65",
 
 			"state": "Kansas",
 
@@ -482,7 +482,7 @@
 
 			"abbreviation": "WVU",
 
-			"prestige": "60",
+			"prestige": "90",
 
 			"state": "West Virginia",
 
@@ -494,7 +494,7 @@
 
 			"abbreviation": "KU",
 
-			"prestige": "25",
+			"prestige": "50",
 
 			"state": "Kansas",
 
@@ -506,7 +506,7 @@
 
 			"abbreviation": "TTU",
 
-			"prestige": "45",
+			"prestige": "60",
 
 			"state": "Texas",
 
@@ -538,11 +538,11 @@
 
 			"abbreviation": "ORE",
 
-			"prestige": "70",
+			"prestige": "75",
 
 			"state": "Oregon",
 
-			"rival": "ORST"
+			"rival": "UTAH"
 
 		}, {
 
@@ -550,7 +550,7 @@
 
 			"abbreviation": "UCLA",
 
-			"prestige": "75",
+			"prestige": "60",
 
 			"state": "California",
 
@@ -562,7 +562,7 @@
 
 			"abbreviation": "USC",
 
-			"prestige": "80",
+			"prestige": "70",
 
 			"state": "California",
 
@@ -574,11 +574,11 @@
 
 			"abbreviation": "WAS",
 
-			"prestige": "80",
+			"prestige": "85",
 
 			"state": "Washington",
 
-			"rival": "UCB"
+			"rival": "WAST"
 
 		}, {
 
@@ -586,7 +586,7 @@
 
 			"abbreviation": "UA",
 
-			"prestige": "75",
+			"prestige": "70",
 
 			"state": "Arizona",
 
@@ -606,27 +606,27 @@
 
 		}, {
 
-			"name": "Oregon St",
+			"name": "Washington St",
 
-			"abbreviation": "ORST",
+			"abbreviation": "WAST",
 
-			"prestige": "40",
+			"prestige": "85",
 
-			"state": "Oregon",
+			"state": "Washington",
 
-			"rival": "ORE"
+			"rival": "WAS"
 
 		}, {
 
-			"name": "Colorado",
+			"name": "Utah",
 
-			"abbreviation": "UCB",
+			"abbreviation": "UTAH",
 
-			"prestige": "50",
+			"prestige": "80",
 
-			"state": "Colorado",
+			"state": "Utah",
 
-			"rival": "WASH"
+			"rival": "ORE"
 
 		}, {
 
@@ -634,7 +634,7 @@
 
 			"abbreviation": "ASU",
 
-			"prestige": "65",
+			"prestige": "75",
 
 			"state": "Arizona",
 
@@ -654,11 +654,11 @@
 
 			"abbreviation": "MEM",
 
-			"prestige": "60",
+			"prestige": "75",
 
 			"state": "Tennessee",
 
-			"rival": "NAVY"
+			"rival": "TUL"
 
 		}, {
 
@@ -666,7 +666,7 @@
 
 			"abbreviation": "HOU",
 
-			"prestige": "70",
+			"prestige": "75",
 
 			"state": "Texas",
 
@@ -674,13 +674,13 @@
 
 		}, {
 
-			"name": "Navy",
+			"name": "Tulane",
 
-			"abbreviation": "NAVY",
+			"abbreviation": "TUL",
 
-			"prestige": "55",
+			"prestige": "60",
 
-			"state": "Maryland",
+			"state": "Louisiana",
 
 			"rival": "MEM"
 
@@ -690,7 +690,7 @@
 
 			"abbreviation": "SMU",
 
-			"prestige": "45",
+			"prestige": "60",
 
 			"state": "Texas",
 
@@ -714,7 +714,7 @@
 
 			"abbreviation": "USF",
 
-			"prestige": "60",
+			"prestige": "70",
 
 			"state": "Florida",
 
@@ -726,11 +726,11 @@
 
 			"abbreviation": "TMPL",
 
-			"prestige": "40",
+			"prestige": "75",
 
 			"state": "Pennsylvania",
 
-			"rival": "UCONN"
+			"rival": "TLSA"
 
 		}, {
 
@@ -738,7 +738,7 @@
 
 			"abbreviation": "CINN",
 
-			"prestige": "35",
+			"prestige": "80",
 
 			"state": "Ohio",
 
@@ -750,7 +750,7 @@
 
 			"abbreviation": "ECU",
 
-			"prestige": "25",
+			"prestige": "55",
 
 			"state": "North Carolina",
 
@@ -758,13 +758,13 @@
 
 		}, {
 
-			"name": "Uconn",
+			"name": "Tulsa",
 
-			"abbreviation": "UCONN",
+			"abbreviation": "TLSA",
 
-			"prestige": "25",
+			"prestige": "55",
 
-			"state": "Connecticut",
+			"state": "Oklahoma",
 
 			"rival": "TMPL"
 
