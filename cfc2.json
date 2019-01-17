@@ -14,7 +14,7 @@
 
 			"abbreviation": "ALA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Alabama",
 
@@ -26,7 +26,7 @@
 
 			"abbreviation": "GEO",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Georgia",
 
@@ -38,7 +38,7 @@
 
 			"abbreviation": "FLA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Florida",
 
@@ -50,7 +50,7 @@
 
 			"abbreviation": "MIZZ",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Missouri",
 
@@ -62,7 +62,7 @@
 
 			"abbreviation": "TAM",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -74,7 +74,7 @@
 
 			"abbreviation": "LSU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Louisiana",
 
@@ -86,7 +86,7 @@
 
 			"abbreviation": "MST",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Mississippi",
 
@@ -98,7 +98,7 @@
 
 			"abbreviation": "MISS",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Mississippi",
 
@@ -110,7 +110,7 @@
 
 			"abbreviation": "KTY",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Kentucky",
 
@@ -122,7 +122,7 @@
 
 			"abbreviation": "AUB",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Alabama",
 
@@ -142,7 +142,7 @@
 
 			"abbreviation": "OHI",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Ohio",
 
@@ -154,7 +154,7 @@
 
 			"abbreviation": "MIC",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Michigan",
 
@@ -166,7 +166,7 @@
 
 			"abbreviation": "MSU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Michigan",
 
@@ -178,7 +178,7 @@
 
 			"abbreviation": "WIS",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Wisconsin",
 
@@ -190,7 +190,7 @@
 
 			"abbreviation": "MIN",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Minnesota",
 
@@ -202,7 +202,7 @@
 
 			"abbreviation": "PUR",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Indiana",
 
@@ -214,7 +214,7 @@
 
 			"abbreviation": "IOWA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Iowa",
 
@@ -226,7 +226,7 @@
 
 			"abbreviation": "IND",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Indiana",
 
@@ -238,7 +238,7 @@
 
 			"abbreviation": "PSU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Pennsylvania",
 
@@ -250,7 +250,7 @@
 
 			"abbreviation": "NOR",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Illinois",
 
@@ -270,7 +270,7 @@
 
 			"abbreviation": "VA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Virginia",
 
@@ -282,7 +282,7 @@
 
 			"abbreviation": "BC",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Massachusetts",
 
@@ -294,7 +294,7 @@
 
 			"abbreviation": "CLEM",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "South Carolina",
 
@@ -306,7 +306,7 @@
       
       "abbreviation": "MIAMI",
       
-      "prestige": "25",
+      "prestige": "65",
       
       "state": "Florida",
       
@@ -318,7 +318,7 @@
 
 			"abbreviation": "Duke",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "North Carolina",
 
@@ -330,7 +330,7 @@
 
 			"abbreviation": "NCST",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "North Carolina",
 
@@ -338,15 +338,15 @@
 
 		}, {
 
-		        "name": "Georgia Tech",
+			"name": "Georgia Tech",
       
-			"abreviation": "GT",
-
-			"presitge": "25",
-
-			"state": "Georgia",
-
-			"rival": "PITT"
+      "abreviation": "GT",
+      
+      "presitge": "65",
+      
+      "state": "Georgia",
+      
+      "rival": "PITT"
       
 		}, {
 
@@ -354,7 +354,7 @@
 
 			"abbreviation": "PIT",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Pennsylvania",
 
@@ -366,7 +366,7 @@
 
 			"abbreviation": "SYRA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "New York",
 
@@ -378,7 +378,7 @@
 
 			"abbreviation": "VT",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Virginia",
 
@@ -398,7 +398,7 @@
 
 			"abbreviation": "OKL",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Oklahoma",
 
@@ -410,7 +410,7 @@
 
 			"abbreviation": "TEX",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -422,7 +422,7 @@
 
 			"abbreviation": "ISU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Iowa",
 
@@ -434,7 +434,7 @@
 
 			"abbreviation": "TCU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -446,7 +446,7 @@
 
 			"abbreviation": "BAY",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -458,7 +458,7 @@
 
 			"abbreviation": "OKS",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Oklahoma",
 
@@ -470,7 +470,7 @@
 
 			"abbreviation": "KSU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Kansas",
 
@@ -482,7 +482,7 @@
 
 			"abbreviation": "WVU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "West Virginia",
 
@@ -494,7 +494,7 @@
 
 			"abbreviation": "KU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Kansas",
 
@@ -506,7 +506,7 @@
 
 			"abbreviation": "TTU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -526,7 +526,7 @@
 
 			"abbreviation": "CAL",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "California",
 
@@ -538,7 +538,7 @@
 
 			"abbreviation": "ORE",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Oregon",
 
@@ -550,7 +550,7 @@
 
 			"abbreviation": "UCLA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "California",
 
@@ -562,7 +562,7 @@
 
 			"abbreviation": "USC",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "California",
 
@@ -574,7 +574,7 @@
 
 			"abbreviation": "WAS",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Washington",
 
@@ -586,7 +586,7 @@
 
 			"abbreviation": "UA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Arizona",
 
@@ -598,7 +598,7 @@
 
 			"abbreviation": "STAN",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "California",
 
@@ -610,7 +610,7 @@
 
 			"abbreviation": "WAST",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Washington",
 
@@ -622,7 +622,7 @@
 
 			"abbreviation": "UTAH",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Utah",
 
@@ -634,7 +634,7 @@
 
 			"abbreviation": "ASU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Arizona",
 
@@ -654,7 +654,7 @@
 
 			"abbreviation": "MEM",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Tennessee",
 
@@ -666,7 +666,7 @@
 
 			"abbreviation": "HOU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -678,7 +678,7 @@
 
 			"abbreviation": "TUL",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Louisiana",
 
@@ -690,7 +690,7 @@
 
 			"abbreviation": "SMU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Texas",
 
@@ -702,7 +702,7 @@
 
 			"abbreviation": "UCF",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Florida",
 
@@ -714,7 +714,7 @@
 
 			"abbreviation": "USF",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Florida",
 
@@ -726,7 +726,7 @@
 
 			"abbreviation": "TMPL",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Pennsylvania",
 
@@ -738,7 +738,7 @@
 
 			"abbreviation": "CINN",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Ohio",
 
@@ -750,7 +750,7 @@
 
 			"abbreviation": "ECU",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "North Carolina",
 
@@ -762,7 +762,7 @@
 
 			"abbreviation": "TLSA",
 
-			"prestige": "25",
+			"prestige": "65",
 
 			"state": "Oklahoma",
 
